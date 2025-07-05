@@ -68,7 +68,11 @@
   <a href="https://www.linkedin.com/in/ayman-samir2210/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AymanCE-SE"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AymanCE-SE/count.svg?"  />
+</div>
 
+###
 ---
 
 ### ⚡ Fun Fact
