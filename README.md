@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ayman Samir</h1>
 <h3 align="center">Full Stack Web Developer | Django | React | DevOps Enthusiast</h3>
@@ -26,6 +25,7 @@
 | [🧨 Django Crowdfunding](https://github.com/AymanCE-SE/Django-CrowdFunding) | Full platform with email verification, auth system, and admin controls | Django, PostgreSQL, Bootstrap |
 | [🛒 React E-Commerce](https://github.com/AymanCE-SE/React-bootstrap-with-redux) | Dynamic UI, admin dashboard, cart logic, order system | React, Redux Toolkit, JSON Server |
 | [🍱 FoodTrove](https://github.com/AymanCE-SE/FoodTrove) | Restaurant frontend app with responsive design | React, Bootstrap |
+| [👨‍💼 Tanfeez Freelancing Platform](https://github.com/AymanCE-SE/Tanfeez-freelancePlatform) | Full-stack freelance marketplace with user roles freelancer and client, project/service proposals, dashboards & JWT auth   | Django REST, React, Redux, PostgreSQL |
 | [🖥 Bash DBMS](https://github.com/AymanCE-SE/Bash-script-DBMS) | Linux CLI database manager with validation and error handling | Bash, Linux |
 
 ---
@@ -33,16 +33,16 @@
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="15" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="15"/>
 </p>
 
 ---
