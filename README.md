@@ -25,6 +25,7 @@
 |--------|-------------|------|
 | [🎬 Jumooh Media Portfolio](https://github.com/AymanCE-SE/pervasion) | Production-ready multilingual media platform with dashboard management, secure authentication, file uploads, and responsive modern design | Django REST, React, Redux Toolkit, PostgreSQL |
 | [🧨 Django Crowdfunding](https://github.com/AymanCE-SE/Django-CrowdFunding) | Full platform with email verification, auth system, and admin controls | Django, PostgreSQL, Bootstrap |
+| [🔬⚕💉 PLab](https://github.com/AymanCE-SE/Plab/tree/main/plab_project) | Full platform with Django that connects a medical laboratory with its patients | Django, Sqlite3, Bootstrap |
 | [🛒 React E-Commerce](https://github.com/AymanCE-SE/React-bootstrap-with-redux) | Dynamic UI, admin dashboard, cart logic, order system | React, Redux Toolkit, JSON Server |
 | [🍱 FoodTrove](https://github.com/AymanCE-SE/FoodTrove) | Restaurant frontend app with responsive design | React, Bootstrap |
 | [👨‍💼 Tanfeez Freelancing Platform](https://github.com/AymanCE-SE/Tanfeez-freelancePlatform) | Full-stack freelance marketplace with user roles freelancer and client, project/service proposals, dashboards & JWT auth   | Django REST, React, Redux, PostgreSQL |
