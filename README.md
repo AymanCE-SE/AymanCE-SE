@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=200&section=header&text=Ayman%20Samir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Django%20%26%20React&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=200&section=header&text=Ayman%20Samir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Django%20and%20React&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Engineering+Mindset+%E2%86%92+Full+Stack+Developer;Django+%2B+React+%2B+PostgreSQL;Clean+Code+%7C+Real+Solutions+%7C+Best+Practices" alt="Typing SVG" />
 
@@ -29,7 +29,7 @@
 | [🧨 Django Crowdfunding](https://github.com/AymanCE-SE/Django-CrowdFunding) | Full platform with email verification, OAuth, payment workflows, admin controls | Django · PostgreSQL · Bootstrap | [Video](https://www.youtube.com/watch?v=eaqb832pXCo) |
 | [🔬 PLab](https://github.com/AymanCE-SE/Plab/tree/main/plab_project) | Platform connecting a medical lab with its patients | Django · SQLite · Bootstrap | [Demo](https://plab.pythonanywhere.com/) |
 | [🛒 FAMMAS E-Commerce](https://github.com/AymanCE-SE/React-bootstrap-with-redux) | Product catalog & admin dashboard — inventory tracking, order processing | React · Redux Toolkit · JSON Server | [Demo](https://react-bootstrap-with-redux.vercel.app) |
-| [🍱 FoodTrove](https://github.com/AymanCE-SE/FoodTrove) | Figma-to-code restaurant frontend, fully responsive | React · Bootstrap | [video](https://www.youtube.com/watch?v=X8ztf_DEZrs) |
+| [🍱 FoodTrove](https://github.com/AymanCE-SE/FoodTrove) | Figma-to-code restaurant frontend, fully responsive | React · Bootstrap | [Video](https://www.youtube.com/watch?v=X8ztf_DEZrs) |
 | [🖥 Bash DBMS](https://github.com/AymanCE-SE/Bash-script-DBMS) | Linux CLI database manager with validation & error handling | Bash · Linux | — |
 
 ---
