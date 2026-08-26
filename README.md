@@ -66,24 +66,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AymanCE-SE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanCE-SE&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=AymanCE-SE&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanCE-SE&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AymanCE-SE&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/AymanCE-SE/AymanCE-SE/main/github-metrics.svg" width="95%" />
 </p>
 
 ---
